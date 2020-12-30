@@ -1,8 +1,12 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 @font-face {
-	font-family: myFirstFont;
-	src: url(sansation_light.woff);
+	font-family: 'made_evolve_sans_evoregular';
+	src: url(MADE Evolve Sans EVO.ttf);
+    src: url('made_evolve_sans_evo-webfont.woff2') format('woff2'),
+         url('made_evolve_sans_evo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
   }
 
 /*
